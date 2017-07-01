@@ -4,9 +4,9 @@ The code is modified from https://github.com/cornell-zhang/facedetect-fpga.  
 
 Develope Environment: Windows SDSoC 2016.2
 
-## SDcard image for Zedboard
+## SDCard image for Zedboard
 
-Simply pull all of the things under sdcard_image folder to SDCard.
+Simply pull all of the things under sdcard_image folder to the SDCard.
 
 ## How to Build
 
