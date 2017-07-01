@@ -24,6 +24,6 @@ Simply pull all of the things under sdcard_image folder to SDCard.
 
 cd /mnt
 
-./face_detect_baseline_plus.elf 192x144_pgmfile(there are five test pgm files to use)
+./face_detect_baseline_plus.elf 192x144_pgmfile(there are five test pgm files to use)  
 The program will create new file to store the result.
 
