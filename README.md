@@ -6,7 +6,7 @@ Develope Environment: Windows SDSoC 2016.2
 
 ## SDcard image for Zedboard
 
-Simply pull all of the things under sdcard folder to Sdcard.
+Simply pull all of the things under sdcard_image folder to Sdcard.
 
 ## How to Build
 
