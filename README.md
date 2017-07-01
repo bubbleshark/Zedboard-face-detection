@@ -6,7 +6,7 @@ Develope Environment: Windows SDSoC 2016.2
 
 ## SDcard image for Zedboard
 
-Simply pull all of the things under sdcard_image folder to Sdcard.
+Simply pull all of the things under sdcard_image folder to SDCard.
 
 ## How to Build
 
@@ -18,7 +18,7 @@ Simply pull all of the things under sdcard_image folder to Sdcard.
 
 4. Click the navigation bar on the top and choose Build Project.  
 
-5. After building finished, it will generate the SDCard_image folder under the SDDebug.Pull all of the things under SDCard_image to your SDCard. And boot the Zedboard form the SDCard.
+5. After building finished, it will generate the sd_card folder under the SDDebug.Pull all of the things under SDCard_image to your SDCard. And boot the Zedboard form the SDCard.
 
 ## Usage 
 
