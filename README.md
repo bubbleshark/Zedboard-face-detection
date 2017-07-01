@@ -1,7 +1,12 @@
-# Zedboard-face-detection  
-The code is modified from https://github.com/cornell-zhang/facedetect-fpga.  
+# Zedboard-face-detection  
+Run face detection algorithm with hardware acceleration on the Zedboard.  
+The code is modified from https://github.com/cornell-zhang/facedetect-fpga.  
 
-Develope Environment: SDSoC 2016.2
+Develope Environment: Windows SDSoC 2016.2
+
+## SDcard image for Zedboard
+
+Simply pull all of the things under sdcard folder to Sdcard.
 
 ## How to Build
 
@@ -14,3 +19,11 @@ Develope Environment: SDSoC 2016.2
 4. Click the navigation bar on the top and choose Build Project.  
 
 5. After building finished, it will generate the SDCard_image folder under the SDDebug.Pull all of the things under SDCard_image to your SDCard. And boot the Zedboard form the SDCard.
+
+## Usage 
+
+cd /mnt
+
+./face_detect_baseline_plus.elf 192x144_pgmfile(there are five test pgm files to use)
+The program will create new file to store the result.
+
